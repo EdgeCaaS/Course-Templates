@@ -2,7 +2,7 @@
   "title": "Course Templates",
   "owners": { "Your-Library-Id": ["all"] },
   "editors": {},
-  "viewers": { "public": ["all"], "all": ["all"] },
+  "viewers": { "stock": ["all"], "all": ["all"] },
   "previewers": {},
   "copyright": {
     "license": "MIT",
